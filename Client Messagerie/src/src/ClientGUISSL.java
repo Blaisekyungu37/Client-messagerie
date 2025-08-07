@@ -11,6 +11,7 @@ public class ClientGUISSL {
 	import java.util.Map;
 // BANZA KYALANGA PETION 
 	// KAYA KAMBA FATAKI
+// KAYEMBE WA NDAY FRANCIS 
 	/**
 	 * Client messagerie SSL/TLS avec interface graphique Swing.
 	 *
