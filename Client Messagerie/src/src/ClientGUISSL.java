@@ -10,6 +10,7 @@ public class ClientGUISSL {
 	import java.util.HashMap;
 	import java.util.Map;
 BANZA KYALANGA PETION 
+	// KAYA KAMBA FATAKI
 	/**
 	 * Client messagerie SSL/TLS avec interface graphique Swing.
 	 *
